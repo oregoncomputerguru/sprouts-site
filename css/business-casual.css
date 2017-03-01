@@ -13,7 +13,7 @@ body {
     -o-background-size: cover;
 }
 table {
-    width:100%;
+    width:90%;
 }
 th, td {
     border-bottom: 1px solid #ddd;
